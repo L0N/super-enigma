@@ -4,10 +4,10 @@ export default class Footer extends Component {
     render() {
         return (
             <footer>
-                <div>
+                <div className="col-sm">
                     Please come by again
                 </div>
-                <div>
+                <div className="col-sm">
                     Copyright 2020
                 </div>
             </footer>
